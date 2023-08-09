@@ -7,6 +7,7 @@ A non-exhaustive list of apps and tools for learning (human) languages.
 - [Polylang](https://polylang.ai/) - Gen ai text Chatbot.
 
 ## Learning Specific Languages
+- [jlrpgquest](https://brunchycafe.com/jlrpgquest) - Learning Japanese, gamified.
 - [Jinbupal](https://jinbupal.com/) - For learning Chinese characters, sorts them in clever ways like least strokes, confusing pairs, ones that look like ones you know; about $10/mo.
 - [Listlang](https://www.listlang.com/) - Learn top 1000 words for a language, in context. Multiple-choice fill-in-the-blanks.
 - [Manabi.io](https://manabi.io) - Spaced repetition for Japanese, companion reader app with rich pre-made content. $4/mo.
