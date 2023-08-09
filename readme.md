@@ -1,5 +1,6 @@
 # Language-Learning-Apps
 A non-exhaustive list of apps and tools for learning (human) languages.
+
 [Form](https://forms.gle/QWeqiGZbd5MijaZG8) to submit suggestions, if you don't want to do a PR.
 
 ## General AI Chatbots
