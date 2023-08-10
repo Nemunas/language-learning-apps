@@ -6,8 +6,10 @@ A non-exhaustive list of apps and tools for learning (human) languages.
 ## General AI Chatbots
 - [Quazel](https://www.quazel.com/) - Gen ai Chatbot, with voice generation and voice replies.
 - [Pretty Polly](https://www.prettypolly.app/) - Gen ai Chatbot, with voice generation and voice replies.
+- [Loora](https://www.loora.ai/) - Gen ai Chatbot, with voice generation and voice replies, english only. Rates pronunciation, fluency, grammar. $14/mo $92/year
 - [Polylang](https://polylang.ai/) - Gen ai text Chatbot.
 - [Languagemate](https://languagemate.io) - chatbot with tts $9/mo and up
+- [Speakfit](https://app.speakfit.club/) - broken
 
 ## General
 - [Clozemaster](https://www.clozemaster.com/) - Multiple choice, fill-in-the blanks etc. Nice pixel-art-y ui. Leaderboard and xp.
@@ -24,20 +26,28 @@ A non-exhaustive list of apps and tools for learning (human) languages.
 - [Manabi.io](https://manabi.io) - Spaced repetition for Japanese, companion reader app with rich pre-made content. $4/mo.
 - [SolarMist (Parsnip)](https://www.solarmist.net/) - Uploaded content to extract words to practice. Clever NLP for different word conjugations.
 
-- [Listlang](https://www.listlang.com/) - Learn top 1000 words for a language, in context. Multiple-choice fill-in-the-blanks.
-
-- [Languagereactor](https://www.languagereactor.com) - Netflix subs, yt content curation, phrasepump: target vocab with tatoeba phrases. $6/mo
-
-- [Tatoeba](https://tatoeba.org/en) - Community for phrases and translations in many languages.
-
 ## Pairing Communities
 - [Penguin](https://www.pengguin.com/) - Online language practice pairing community
 
 ## Tutor matching platform
-- [Pollylingual] (https://pollylingu.al/) - Some exercises and video lessons as well.
--  
+- [Pollylingual](https://pollylingu.al/) - Some exercises and video lessons as well.
+- [Italki](https://www.italki.com/)
+- [Preply](https://preply.com/)
+- [Verbling](https://www.verbling.com/)
+
+## Not sorted
+- [Listlang](https://www.listlang.com/) - Learn top 1000 words for a language, in context. Multiple-choice fill-in-the-blanks.
+- [Languagereactor](https://www.languagereactor.com) - Netflix subs, yt content curation, phrasepump: target vocab with tatoeba phrases. $6/mo
+- [Tatoeba](https://tatoeba.org/en) - Community for phrases and translations in many languages.
 
 
+## need credit card to try
+- https://www.langchats.com/
+- https://www.funeasylearn.com/
+- https://www.fluentu.com/pricing/
+
+## waitlist
+- [Speechy](https://speechy.ai/)
 
 ## Inbox (To Review or Add Details)
 - Wanikani
