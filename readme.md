@@ -39,12 +39,15 @@ A non-exhaustive list of apps and tools for learning (human) languages.
 - [Lirica](https://www.lirica.io/) - Lessons based on popular song music videos / lyrics.
 - [Memoap](https://www.memoapp.pro/) - Learn spanish, with memes.
 - [GetIdiom](https://getidiom.com/) - Youtube captions. $5/mo
+- [Yabla](https://yabla.com/) - Dual subtitle videos with a govt training focus.
 
 ## Learning Specific Languages
+- [Egbunn](https://web.eggbun.net/) - Learn korean with nice ux.
 - [Wanikani](https://www.wanikani.com/) - Learn kanji through mnemonics, radicals, vocab.
 - [Jinbupal](https://jinbupal.com/) - For learning Chinese characters, sorts them in clever ways like least strokes, confusing pairs, ones that look like ones you know; about $10/mo.
 - [Manabi.io](https://manabi.io) - Spaced repetition for Japanese, companion reader app with rich pre-made content. $4/mo.
 - [SolarMist (Parsnip)](https://www.solarmist.net/) - Uploaded content to extract words to practice. Clever NLP for different word conjugations.
+- [Bunpo](https://bunpo.app/) - Standart japanese text exercises. $9/mo $30/annual $45 lifetime
 
 ## Pairing Communities
 - [Tandem](https://www.tandem.net/) - make a profile, get into whatsapp-like chats. Also has tutors. $8/mo
@@ -75,15 +78,10 @@ A non-exhaustive list of apps and tools for learning (human) languages.
 ## Waitlist
 - [Speechy](https://speechy.ai/)
 
+## Reviews by others
+- [Langoly](https://www.langoly.com/category/review/)
+
 ## Inbox (To Review or Add Details)
-- Easy Japanese
-- [Lingonote](https://lingonote.com/)
-- [Langs AI on Apple Store](https://apps.apple.com/us/app/langs-ai-language-learning/id1668639533?platform=iphone)
-- [Speechy](https://speechy.ai/) (insufferable corpo speak on hn…)
-- [Language Reactor](https://www.languagereactor.com/chatbot)
-- [Loora](https://www.loora.ai/)
-- [Langchats](https://www.langchats.com/)
-- [Speakfit Club](https://www.speakfit.club/)
-- [Word Dose German on Apple Store](https://apps.apple.com/us/app/word-dose-german-learn-german/id1668394314)
-- [Language Partner](https://language-partner.anvil.app/)
-- [Bunpo](https://bunpo.app/)
+- [Mondly](https://www.mondly.com/)
+- [Babbel](https://babbel.com)
+- [Pimsleur](https://www.pimsleur.com/)
