@@ -47,7 +47,7 @@ Prices approximate.
 - [Yabla](https://yabla.com/) - Dual subtitle videos with a govt training focus.
 
 ## Learning Specific Languages
-- [Egbunn](https://web.eggbun.net/) - Learn korean with nice ux. 🌟
+- [Eggbun](https://web.eggbun.net/) - Learn korean with nice ux. 🌟
 - [Wanikani](https://www.wanikani.com/) - Learn kanji through mnemonics, radicals, vocab. 
 - [Jinbupal](https://jinbupal.com/) - For learning Chinese characters, sorts them in clever ways like least strokes, confusing pairs, ones that look like ones you know. about $10/mo
 - [Manabi.io](https://manabi.io) - Spaced repetition for Japanese, companion reader app with rich pre-made content. $4/mo
