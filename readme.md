@@ -6,28 +6,39 @@ A non-exhaustive list of apps and tools for learning (human) languages.
 ## Gen AI Chatbots
 - [Quazel](https://www.quazel.com/) - Gen ai Chatbot, with voice generation and voice replies.
 - [Pretty Polly](https://www.prettypolly.app/) - Gen ai Chatbot, with voice generation and voice replies.
-- [Loora](https://www.loora.ai/) - Gen ai Chatbot, with voice generation and voice replies, english only. Rates pronunciation, fluency, grammar. $14/mo $92/year
 - [Polylang](https://polylang.ai/) - Gen ai text Chatbot.
 - [Languagemate](https://languagemate.io) - chatbot with tts $9/mo and up
 - [Speakfit](https://app.speakfit.club/) - broken
 
 ## General
-- [Lingg](https://www.lingq.com/en/) - Phrases with voiceover and click-to-translate. Vocab and flashcards. $13/mo $130/year
+- [Lingq](https://www.lingq.com/en/) - Phrases with voiceover and click-to-translate. Vocab and flashcards. $13/mo $130/year
 - [Clozemaster](https://www.clozemaster.com/) - Multiple choice, fill-in-the blanks etc. Nice pixel-art-y ui. Leaderboard and xp.
-- [Glossika](https://ai.glossika.com/) - Speak words as you're shown them, doesn't seem to score pronunciation? Flashcards. $17/mo $160/year
+- [Lingvist](https://lingvist.com/) - Standart exercises, text-to-speech.
+- [Ling](https://ling-app.com/) - Standart exercises, voiceovers, totor matching.
+- [LanguageDrops](https://languagedrops.com/) - Standart exercises with flashy mobile ui. $13/mo $90/year $160 lifetime
 - [Lingodeer](https://www.lingodeer.com/) - Standart multiple choice, matching, spelling etc questions with decent ux $8mo, $100 lifetime.
 - [Busuu](https://www.busuu.com) - Various standart quizes, simple ui.
 - [Babel](https://my.babel.com/) - Flashcards and standart questions with simple ui.
 
-## Dual / matched text  
-- [Beelingu](https://beelinguapp.com/) - Many stories on many topics. $5/mo $50/year
+## Speaking Focused
+- [Loora](https://www.loora.ai/) - Gen ai Chatbot, with voice generation and voice replies, english only. Rates pronunciation, fluency, grammar. $14/mo $92/year
+- [Glossika](https://ai.glossika.com/) - Speak words as you're shown them, doesn't seem to score pronunciation? Flashcards. $17/mo $160/year
+- [MangoLanguages](https://mangolanguages.com/) - More speaking exercises, but audio guidance is just your recording overlaid with speaker. $10/mo
+
+## Reading Focused
+- [Langster](https://langster.org/en/) - Story with click-to-translate, then quiz, grammar and flashcards. $65/year
+- [Donquixote](https://donquixote.fun/) - Book translated one phrase at a time. Spanish/English.
+- [Beelingu](https://beelinguapp.com/) - Dual / matched text. Many stories on many topics. $5/mo $50/year
 
 ## Highly Gamified
 - [JLRPGquest](https://brunchycafe.com/jlrpgquest) - Learning Japanese, gamified.
 - [Fluyo](https://fluyo.com/) - Kickstarter, not out - combat rpg.
 
-## Media matching
-- [Lirica](https://www.lirica.io/) - lessons based on popular song music videos / lyrics. 
+## Media driven
+- [Memrise](https://www.memrise.com/app) - Lots of short vidoes of native speaker actors doing basic skits and phrases. $15/mo $90/year $200/lifetime 
+- [Lirica](https://www.lirica.io/) - Lessons based on popular song music videos / lyrics.
+- [Memoap](https://www.memoapp.pro/) - Learn spanish, with memes.
+- [GetIdiom](https://getidiom.com/) - Youtube captions. $5/mo
 
 ## Learning Specific Languages
 - [Wanikani](https://www.wanikani.com/) - Learn kanji through mnemonics, radicals, vocab.
@@ -36,6 +47,7 @@ A non-exhaustive list of apps and tools for learning (human) languages.
 - [SolarMist (Parsnip)](https://www.solarmist.net/) - Uploaded content to extract words to practice. Clever NLP for different word conjugations.
 
 ## Pairing Communities
+- [Tandem](https://www.tandem.net/) - make a profile, get into whatsapp-like chats. Also has tutors. $8/mo
 - [Penguin](https://www.pengguin.com/) - Online language practice pairing community
 
 ## Tutor matching platform
